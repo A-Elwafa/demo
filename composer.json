@@ -1,0 +1,13 @@
+{
+  "name": "A-Elwafa/demo",
+  "description": "Demo package for A-Elwafa article.",
+  "keywords": ["laravel", "demo"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "A-Elwafa",
+      "email": "eslam@a-elwafa.me"
+    }
+  ]
+
+}
